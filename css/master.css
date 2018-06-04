@@ -1,0 +1,20 @@
+.container-fluid {
+  background-color: purple;
+  text-align: center;
+}
+
+#heading {
+  color: orange;
+  font-size: 500%
+}
+
+.foto {
+  margin: 50px;
+  background-color: black;
+  width: 800px;
+  height: 600px;
+}
+
+#buttons {
+  margin-top: 500px;
+}

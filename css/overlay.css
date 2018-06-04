@@ -1,0 +1,15 @@
+.container-fluid {
+  background-color: rgba(81,5,53,0.87);
+  height: 1024px;
+  text-align: center;
+}
+
+.btns {
+  margin-top: 25%;
+  background: orange;
+  border-radius: 3%;
+  border: 1px solid black;
+  font-size: 250%;
+  padding: 1%;
+  margin-left: 3%;
+}

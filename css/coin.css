@@ -1,0 +1,11 @@
+.container-fluid {
+  background-color: rgba(81,5,53,0.87);
+  height: 1024px;
+  text-align: center;
+}
+
+.coinpls {
+  margin-top: 20%;
+  color: orange;
+  font-size: 400%;
+}
